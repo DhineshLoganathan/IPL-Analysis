@@ -5,3 +5,7 @@ Step 3 : Load the csv file to the Postgresql.
 Step 4 : Connect the Postgresql server to the PowerBI
 Step 5 : Preprocess the data and create a new measure according to your dashboard visualizations.
 Step 6 : Publish it by using Microsoft fabric account.
+
+
+
+After the preprocess the data you can start visualization it by using various charts and dashboard.
