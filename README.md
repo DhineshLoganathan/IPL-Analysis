@@ -6,6 +6,9 @@ Step 4 : Connect the Postgresql server to the PowerBI
 Step 5 : Preprocess the data and create a new measure according to your dashboard visualizations.
 Step 6 : Publish it by using Microsoft fabric account.
 
+This IPL dahboard is to view the records of IPL from 2008 - 2022.
+This was happened by the two dataset one is consists of ball by ball records and another one is consists of number of matches played in IPL.
+
 
 
 After the preprocess the data you can start visualization it by using various charts and dashboard.
